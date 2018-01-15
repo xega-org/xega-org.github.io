@@ -10,6 +10,7 @@
     <meta name="author" content="XEGA">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" integrity="sha384-6iYDyQZuuNT7DcPJGXx241czdv2+GDGUcXRiqw1iXrjgYMTorSetxFP3JCMQMwnR" crossorigin="anonymous">
     <style>
       body {
         padding-top: 5rem;
@@ -75,15 +76,33 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
     <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js" integrity="sha384-PDjg2ZdS3khPzd53i18+7tzB32JVQfFMrTXYo21RqPgUmEVAPwIhxOUF/8sP79CS" crossorigin="anonymous">
+    // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
+    // @source https://github.com/silktide/cookieconsent2
+    // @license-end
+    </script>
     <script>
     // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
     // @source https://github.com/silktide/cookieconsent2
-      window.cookieconsent_options = {"message":"Usamos algunas <em>cookies</em> (todas ellas prescindibles). Si continúas navegando aceptas su uso.","dismiss":"Lo sé","learnMore":"Más información...","link":"https://xega.org/es/aviso-legal/#cookies",theme:"edgeless",position:"bottom-right"};
-    // @license-end
-    </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js" integrity="sha384-8YDBZXDz6kUqy7Wk3Mua9ixYxUKcuxJtCA97N+E2J3m7JJiGunKiB2guQS13d6C+" crossorigin="anonymous">
-    // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
-    // @source https://github.com/silktide/cookieconsent2
+    window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#252e39"
+        },
+        "button": {
+          "background": "#14a7d0"
+        }
+      },
+      "theme": "edgeless",
+      "position": "bottom-right",
+      "content": {
+        "message": "Usamos algunas cookies (todas ellas prescindibles). Si continúas navegando aceptas su uso.",
+        "dismiss": "Lo sé",
+        "link": "Más información...",
+        "href": "https://xega.org/es/aviso-legal/#cookies"
+      }
+    })});
     // @license-end
     </script>
     <!-- End Cookie Consent plugin -->
