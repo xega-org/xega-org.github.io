@@ -1,0 +1,62 @@
+ast:
+  SITE:
+    TITLE: Arguyu 2016
+    DESCRIPTION: Programación Arguyu Asturies 2016
+    COPYRIGHT: XEGA 2016
+  SUBSCRIBE: Soscribir
+  TWEET: Tuitear
+  SHARE: Compárelu
+  MONTHS_OF_THE_YEAR: [Xineru, Febreru, Marzu, Abril, Mayu, Xunu, Xunetu, Agostu, Setiembre, Ochobre, Payares, Avientu]
+  DAYS_OF_THE_WEEK: [Llunes, Martes, Miércoles, Xueves, Vienres, Sábadu, Domingu]
+  READ_MORE: Más información
+  SEARCH: Buscar
+  RANDOM_ARTICLE: Eventu al azar
+  POPULAR_TAGS: Etiquetes
+  LATEST_RECIPES: Eventos nuevos
+  RELATED_POSTS: De xuru que tamién te presta...
+  SEARCH_FIELD: Buscar...
+  NEXT: Eventu anterior
+  PREVIOUS: Eventu siguiente
+  TOPICS: eventos
+
+en:
+  SITE:
+    TITLE: Pride 2016
+    DESCRIPTION: Asturian Pride Program
+    COPYRIGHT: XEGA 2016
+  SUBSCRIBE: Subscribe
+  TWEET: Tweet
+  SHARE: Share
+  MONTHS_OF_THE_YEAR: [January, February, March, April, May, June, July, August, September, October, November, December]
+  DAYS_OF_THE_WEEK: [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday]
+  READ_MORE: More information
+  SEARCH: Search
+  RANDOM_ARTICLE: Random Event
+  POPULAR_TAGS: Tags
+  LATEST_RECIPES: New Events
+  RELATED_POSTS: Related
+  SEARCH_FIELD: Type and press enter...
+  NEXT: Previous Event
+  PREVIOUS: Next Event
+  TOPICS: events
+
+es:
+  SITE:
+    TITLE: Orgullo 2016
+    DESCRIPTION: Programación Orgullo Asturias 2016
+    COPYRIGHT: XEGA 2016
+  SUBSCRIBE: Suscribir
+  TWEET: Twittear
+  SHARE: Compártelo
+  MONTHS_OF_THE_YEAR: [Enero, Febrero, Marzo, Abril, Mayo, Junio, Julio, Agosto, Septiembre, Octubre, Noviembre, Diciembre]
+  DAYS_OF_THE_WEEK: [Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo]
+  READ_MORE: Más información
+  SEARCH: Buscar
+  RANDOM_ARTICLE: Evento al azar
+  POPULAR_TAGS: Etiquetas
+  LATEST_RECIPES: Nuevos eventos
+  RELATED_POSTS: Seguro que también te interesa...
+  SEARCH_FIELD: Buscar...
+  NEXT: Evento anterior
+  PREVIOUS: Siguiente evento
+  TOPICS: eventos

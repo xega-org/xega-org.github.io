@@ -1,0 +1,129 @@
+<?php
+
+/* pagination.html.twig */
+class __TwigTemplate_74521eab20b63594b5a8f5c3857480c1685c6463315824fb6443553214c86ff6 extends Twig_Template
+{
+    public function __construct(Twig_Environment $env)
+    {
+        parent::__construct($env);
+
+        $this->parent = false;
+
+        $this->blocks = array(
+        );
+    }
+
+    protected function doDisplay(array $context, array $blocks = array())
+    {
+        // line 1
+        if ((twig_length_filter($this->env, ($context["pagination"] ?? null)) > 1)) {
+            // line 2
+            echo "<div class=\"pagination\">
+    <div class=\"pagenavi\">
+    ";
+            // line 4
+            if ($this->getAttribute(($context["pagination"] ?? null), "hasPrev", array())) {
+                // line 5
+                echo "        <a rel=\"prev\" class=\"prev page-numbers\" href=\"";
+                echo ($context["base_url"] ?? null);
+                echo $this->getAttribute(($context["pagination"] ?? null), "params", array());
+                echo $this->getAttribute(($context["pagination"] ?? null), "prevUrl", array());
+                echo "\">&laquo;</a>
+    ";
+            }
+            // line 7
+            echo "    ";
+            $context['_parent'] = $context;
+            $context['_seq'] = twig_ensure_traversable(($context["pagination"] ?? null));
+            foreach ($context['_seq'] as $context["_key"] => $context["paginate"]) {
+                // line 8
+                echo "        ";
+                if ($this->getAttribute($context["paginate"], "isCurrent", array())) {
+                    // line 9
+                    echo "            <span class=\"page-numbers current\">";
+                    echo $this->getAttribute($context["paginate"], "number", array());
+                    echo "</span>
+        ";
+                } elseif ($this->getAttribute(                // line 10
+$context["paginate"], "isInDelta", array())) {
+                    // line 11
+                    echo "            <a class=\"page-numbers\" href=\"";
+                    echo ($context["base_url"] ?? null);
+                    echo $this->getAttribute(($context["pagination"] ?? null), "params", array());
+                    echo $this->getAttribute($context["paginate"], "url", array());
+                    echo "\">";
+                    echo $this->getAttribute($context["paginate"], "number", array());
+                    echo "</a>
+        ";
+                }
+                // line 13
+                echo "    ";
+            }
+            $_parent = $context['_parent'];
+            unset($context['_seq'], $context['_iterated'], $context['_key'], $context['paginate'], $context['_parent'], $context['loop']);
+            $context = array_intersect_key($context, $_parent) + $_parent;
+            // line 14
+            echo "    ";
+            if ($this->getAttribute(($context["pagination"] ?? null), "hasNext", array())) {
+                // line 15
+                echo "        <a rel=\"next\" class=\"next page-numbers\" href=\"";
+                echo ($context["base_url"] ?? null);
+                echo $this->getAttribute(($context["pagination"] ?? null), "params", array());
+                echo $this->getAttribute(($context["pagination"] ?? null), "nextUrl", array());
+                echo "\">&raquo;</a>
+    ";
+            }
+            // line 17
+            echo "    </div>
+</div>
+";
+        }
+    }
+
+    public function getTemplateName()
+    {
+        return "pagination.html.twig";
+    }
+
+    public function isTraitable()
+    {
+        return false;
+    }
+
+    public function getDebugInfo()
+    {
+        return array (  77 => 17,  69 => 15,  66 => 14,  60 => 13,  50 => 11,  48 => 10,  43 => 9,  40 => 8,  35 => 7,  27 => 5,  25 => 4,  21 => 2,  19 => 1,);
+    }
+
+    /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
+    public function getSource()
+    {
+        @trigger_error('The '.__METHOD__.' method is deprecated since version 1.27 and will be removed in 2.0. Use getSourceContext() instead.', E_USER_DEPRECATED);
+
+        return $this->getSourceContext()->getCode();
+    }
+
+    public function getSourceContext()
+    {
+        return new Twig_Source("{% if pagination|length > 1 %}
+<div class=\"pagination\">
+    <div class=\"pagenavi\">
+    {% if pagination.hasPrev %}
+        <a rel=\"prev\" class=\"prev page-numbers\" href=\"{{ base_url }}{{ pagination.params }}{{ pagination.prevUrl }}\">&laquo;</a>
+    {% endif %}
+    {% for paginate in pagination %}
+        {% if paginate.isCurrent %}
+            <span class=\"page-numbers current\">{{ paginate.number }}</span>
+        {% elseif paginate.isInDelta %}
+            <a class=\"page-numbers\" href=\"{{ base_url }}{{ pagination.params }}{{ paginate.url }}\">{{ paginate.number }}</a>
+        {% endif %}
+    {% endfor %}
+    {% if pagination.hasNext %}
+        <a rel=\"next\" class=\"next page-numbers\" href=\"{{ base_url }}{{ pagination.params }}{{ pagination.nextUrl }}\">&raquo;</a>
+    {% endif %}
+    </div>
+</div>
+{% endif %}
+", "pagination.html.twig", "C:\\Users\\Miguel\\Documents\\github.com\\xega-org\\xega-org.github.io\\dev\\orgullo\\2016\\user\\themes\\receptar-xega\\templates\\pagination.html.twig");
+    }
+}

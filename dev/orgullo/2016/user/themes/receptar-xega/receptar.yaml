@@ -1,0 +1,8 @@
+enabled: true
+default_lang: es
+streams:
+  scheme:
+    theme:
+      type: ReadOnlyStream
+      paths:
+        - user/themes/receptar-xega

@@ -1,0 +1,11 @@
+email: webmaster@xega.org
+fullname: XEGA
+title: Webmaster
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$ivtMdfpSf4ptXMbOAEfBZufX4zD2MjmMF2gLLtcTGiG1LDDzur0QS
