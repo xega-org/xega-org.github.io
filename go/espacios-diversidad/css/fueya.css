@@ -1,0 +1,122 @@
+/* Artilanes.com pa XEGA.org */
+
+body {
+	background-color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #fff;
+	font-size: 12px;
+	line-height: 14px;
+}
+h1 {
+	text-align: right;
+	font-size: 32px;
+	line-height: 34px;
+	padding: 0;
+	margin: 0;
+}
+h2 {
+	text-align: center;
+	font-size: 18px;
+	line-height: 20px;
+	padding: 20px 0 0 0;
+	margin: 0;
+}
+acronym {
+	border: 0;
+}
+
+#CuerpuPaxina {
+	margin: auto;
+	width: 780px;
+/*	background-color: #00f; */
+	background-image: url(../img/arcu_la_vieya-200x1.png);
+	background-repeat: repeat-y;
+	padding: 0;
+}
+#CaxaTresparente {
+	position: relative;
+	left: 200px;
+	width: 420px;
+	padding: 68px 160px 0 0;
+}
+#CaxaTresparente .Conteniu {
+	background-color: #863885;
+	padding: 30px 30px 30px 0;
+	text-align: justify;
+}
+#CaxaTresparente .Conteniu a {
+	text-decoration: none;
+	color: #fff;
+	border-bottom: 1px #fff dotted;
+}
+#CaxaTresparente .Conteniu a:hover {
+	border-bottom: 1px #fff solid;
+}
+#Llogotipu-ast {
+	position: absolute;
+	background-image: url(../img/espacios-200x163.ast.png);
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 163px;
+}
+#Llogotipu-es {
+	position: absolute;
+	background-image: url(../img/espacios-200x163.es.png);
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 163px;
+}
+#Llogotipu-en {
+	position: absolute;
+	background-image: url(../img/espacios-200x163.es.png);
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 163px;
+}
+#Llogotipu-it {
+	position: absolute;
+	background-image: url(../img/espacios-200x163.es.png);
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 163px;
+}
+#CaxaTresparente .Menu {
+	position: absolute;
+	width: 160px;
+	top: 104px;
+	left: 420px;
+/*	background-color: #0f0; */
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+#CaxaTresparente .Menu ul {
+	padding: 10px 0 10px 10px;
+	margin: 0;
+}
+#CaxaTresparente .Menu li {
+	list-style: none;
+	line-height: 18px;
+	padding: 4px 0 4px 0;
+	border-bottom: 2px #fff dotted;
+}
+#CaxaTresparente .Menu a {
+	text-decoration: none;
+	color: #fff;
+}
+#CaxaTresparente .Menu a:hover {
+	font-weight: bold;
+}
+#CapaFondera {
+	clear: both;
+	margin: auto;
+	width: 780px;
+	padding: 4px 0 10px 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+#CapaFondera a {
+	text-decoration: none;
+	color: #fff;
+}
+#CapaFondera a:hover {
+	font-weight: bold;
+}
