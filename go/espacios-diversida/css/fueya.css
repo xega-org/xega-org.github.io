@@ -120,3 +120,10 @@ acronym {
 #CapaFondera a:hover {
 	font-weight: bold;
 }
+/* Max. Width: 979px ==================================================== */
+@media screen and (max-width: 979px) {
+	/* CookieConsent ------------------------------------------------------ */
+	.cc-window {
+		margin-bottom: 32px;
+	}
+}
