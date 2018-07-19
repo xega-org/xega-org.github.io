@@ -11,6 +11,7 @@
     <link rel="icon" type="image/png" sizes="196x196" href="bootstrap/favicon-196.png"> <!-- 196x196 -->
     <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="bootstrap/favicon-180.png"> <!-- 180x180 -->
     <meta property="og:image" content="https://xega.org/go/donde-estan-las-no-hetero/bootstrap/favicon-1920x1080.png">
+    <meta name="theme-color" content="#f55912">
     <link rel="stylesheet" href="bootstrap/bootstrap-4.1.2.min.css">
     <style>
       body {
@@ -26,6 +27,18 @@
       a:hover {
         color: #b03d09;
         text-decoration: none;
+      }
+      .custom-bg {
+        background-color: #f55912 !important;
+      }
+      .navbar-toggler {
+        border: 0;
+      }
+      .navbar-brand {
+        width: 80%;
+      }
+      .navbar-collapse {
+        text-align: center;
       }
       .jumbotron {
         padding: 0;
@@ -62,8 +75,14 @@
       .btn {
         margin-bottom: 6px;
       }
-      /* Max. Width: 979px ==================================================== */
-      @media screen and (max-width: 979px) {
+      /* sm - max-width: 576px ==================================================== */
+      @media (max-width: 576px) {
+        .footer {
+          text-align: center;
+        }
+      }
+      /* max-width: 979px ==================================================== */
+      @media (max-width: 979px) {
         /* CookieConsent ------------------------------------------------------ */
         .cc-window {
           margin-bottom: 32px;
@@ -83,10 +102,10 @@
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5QZT3BG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-      <a class="navbar-brand" href="./"><img src="bootstrap/logo-blanco-360x50-es.png"></a>
+    <nav class="navbar navbar-expand-md navbar-dark custom-bg fixed-top">
+      <a class="navbar-brand" href="./"><img src="bootstrap/logo-blanco-360x50-es.png" width="100%" style="max-width:360px;"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+        <i class="fas fa-ellipsis-v"></i>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
@@ -144,7 +163,7 @@
     <footer class="footer">
       <div class="container">
         <div class="row">
-          <div class="col">
+          <div class="col-sm">
             <a class="navbar-brand" href="."><svg
                xmlns:dc="http://purl.org/dc/elements/1.1/"
                xmlns:cc="http://creativecommons.org/ns#"
@@ -270,7 +289,7 @@
               MADE WIDTH <i class="fas fa-heart" style="color:#f00;"></i> IN ASTURIES | <a href="//github.com/xega-org/xega-org.github.io/blob/master/go/donde-estan-las-no-hetero/index.html" target="_blank" rel="external, nofollow"><i class="fas fa-code-branch"></i></a>
             </span>
           </div> <!-- .col -->
-          <div class="col">
+          <div class="col-sm">
             <span class="text-muted">Con la colaboración de</span><br>
             <img src="bootstrap/politica-igualdad-gijon.png" width="50%">
           </div> <!-- .col -->
