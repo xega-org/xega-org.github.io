@@ -11,6 +11,7 @@
     <link rel="icon" type="image/png" sizes="196x196" href="bootstrap/favicon-196.png"> <!-- 196x196 -->
     <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="bootstrap/favicon-180.png"> <!-- 180x180 -->
     <meta property="og:image" content="https://xega.org/go/donde-estan-las-no-hetero/bootstrap/favicon-1920x1080.png">
+    <meta name="theme-color" content="#f55912">
     <link rel="stylesheet" href="bootstrap/bootstrap-4.1.2.min.css">
     <style>
       body {
@@ -30,6 +31,18 @@
       strong {
         font-weight: 700;
       }
+      .custom-bg {
+        background-color: #f55912 !important;
+      }
+      .navbar-toggler {
+        border: 0;
+      }
+      .navbar-brand {
+        width: 80%;
+      }
+      .navbar-collapse {
+        text-align: center;
+      }
       .jumbotron {
         padding: 0;
       }
@@ -40,21 +53,45 @@
       .jumbotron h1, .jumbotron p {
         display: none;
       }
+      /* MARKETING CONTENT */
+      /* Center align the text within the three columns below the jumbotron */
+      .marketing .col-lg-4, .marketing .col-lg-6 {
+        margin-bottom: 1.5rem;
+        text-align: center;
+      }
+      .marketing .col-lg-4 svg, .marketing .col-lg-6 svg {
+        color: #f55912;
+      }
+      .marketing .col-lg-4 p, .marketing .col-lg-6 p {
+        margin-right: .75rem;
+        margin-left: .75rem;
+      }
+      .marketing .col-lg-4 p svg, .marketing .col-lg-6 p svg {
+        color: #ffffff;
+      }
+      .marketing h2 {
+        font-weight: 400;
+      }
       .container {
         margin-bottom: 4rem;
       }
       .btn {
         margin-bottom: 6px;
       }
-      /* Max. Width: 979px ==================================================== */
-      @media screen and (max-width: 979px) {
+      /* sm - max-width: 576px ==================================================== */
+      @media (max-width: 576px) {
+        .footer {
+          text-align: center;
+        }
+      }
+      /* max-width: 979px ==================================================== */
+      @media (max-width: 979px) {
         /* CookieConsent ------------------------------------------------------ */
         .cc-window {
           margin-bottom: 32px;
         }
       }
     </style>
-    <meta property="og:image" content="20171231000000-0002a--cartel_como_denunciar_oviedo_96dpi-xega-spa.png">
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -67,10 +104,10 @@
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5QZT3BG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-      <a class="navbar-brand" href="./"><img src="bootstrap/logo-blanco-360x50-es.png"></a>
+    <nav class="navbar navbar-expand-md navbar-dark custom-bg fixed-top">
+      <a class="navbar-brand" href="./"><img src="bootstrap/logo-blanco-360x50-es.png" width="100%" style="max-width:290px;"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+        <i class="fas fa-ellipsis-v"></i>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
@@ -123,12 +160,32 @@
       <p class="lead"><img src="propuesta-tribadas-botanico-2.jpg" class="img-fluid" alt="Ejemplo de propuesta para publicaciones de Turismo."></p>
       <p class="lead"><img src="propuesta-tribadas-botanico-4.jpg" class="img-fluid" alt="Ejemplo de propuesta para publicaciones de Turismo."></p>
       <p class="lead"><img src="propuesta-tribadas-laboral-1.jpg" class="img-fluid" alt="Ejemplo de propuesta para publicaciones de Turismo."></p>
+      <!-- Marketing messaging and featurettes
+      ================================================== -->
+      <!-- Wrap the rest of the page in another container to center all the content. -->
+      <div class="container marketing" style="margin-top:4rem;">
+        <!-- Three columns of text below the carousel -->
+        <div class="row">
+          <div class="col-lg-6">
+            <i class="fas fa-search fa-7x"></i>
+            <h2>Investigación</h2>
+            <!-- <p></p> -->
+            <p><a class="btn btn-secondary" href="investigacion.html" role="button">Más <i class="far fa-arrow-alt-circle-right"></i></a></p>
+          </div><!-- /.col-lg-6 -->
+          <div class="col-lg-6">
+            <i class="fas fa-lightbulb fa-7x"></i>
+            <h2>Propuestas</h2>
+            <!-- <p></p> -->
+            <p><a class="btn btn-secondary" href="propuestas.html" role="button">Más <i class="far fa-arrow-alt-circle-right"></i></a></p>
+          </div><!-- /.col-lg-6 -->
+        </div><!-- /.row -->
+      </div> <!-- .container .marketing -->
     </main> <!-- .container -->
     <hr>
     <footer class="footer">
       <div class="container">
         <div class="row">
-          <div class="col">
+          <div class="col-sm">
             <a class="navbar-brand" href="."><svg
                xmlns:dc="http://purl.org/dc/elements/1.1/"
                xmlns:cc="http://creativecommons.org/ns#"
@@ -253,11 +310,11 @@
             <span class="text-muted">2015-<script>document.write(new Date().getFullYear())</script> <a href="./" title="Asociación XEGA.">XEGA</a><br>
               MADE WIDTH <i class="fas fa-heart" style="color:#f00;"></i> IN ASTURIES | <a href="//github.com/xega-org/xega-org.github.io/blob/master/go/donde-estan-las-no-hetero/index.html" target="_blank" rel="external, nofollow"><i class="fas fa-code-branch"></i></a>
             </span>
-          </div> <!-- .col -->
-          <div class="col">
+          </div> <!-- .col-sm -->
+          <div class="col-sm">
             <span class="text-muted">Con la colaboración de</span><br>
             <img src="bootstrap/politica-igualdad-gijon.png" width="50%">
-          </div> <!-- .col -->
+          </div> <!-- .col-sm -->
         </div> <!-- .row -->
       </div> <!-- .container -->
     </footer>

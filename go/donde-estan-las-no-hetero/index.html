@@ -28,6 +28,9 @@
         color: #b03d09;
         text-decoration: none;
       }
+      strong {
+        font-weight: 700;
+      }
       .custom-bg {
         background-color: #f55912 !important;
       }
@@ -51,23 +54,23 @@
         display: none;
       }
       /* MARKETING CONTENT */
-      /* Center align the text within the three columns below the carousel */
-      .marketing .col-lg-4 {
+      /* Center align the text within the three columns below the jumbotron */
+      .marketing .col-lg-4, .marketing .col-lg-6 {
         margin-bottom: 1.5rem;
         text-align: center;
       }
-      .marketing h2 {
-        font-weight: 400;
-      }
-      .marketing .col-lg-4 svg {
+      .marketing .col-lg-4 svg, .marketing .col-lg-6 svg {
         color: #f55912;
       }
-      .marketing .col-lg-4 p {
+      .marketing .col-lg-4 p, .marketing .col-lg-6 p {
         margin-right: .75rem;
         margin-left: .75rem;
       }
-      .marketing .col-lg-4 p svg {
+      .marketing .col-lg-4 p svg, .marketing .col-lg-6 p svg {
         color: #ffffff;
+      }
+      .marketing h2 {
+        font-weight: 400;
       }
       .container {
         margin-bottom: 4rem;
@@ -89,7 +92,6 @@
         }
       }
     </style>
-    <meta property="og:image" content="20171231000000-0002a--cartel_como_denunciar_oviedo_96dpi-xega-spa.png">
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -103,7 +105,7 @@
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5QZT3BG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <nav class="navbar navbar-expand-md navbar-dark custom-bg fixed-top">
-      <a class="navbar-brand" href="./"><img src="bootstrap/logo-blanco-360x50-es.png" width="100%" style="max-width:360px;"></a>
+      <a class="navbar-brand" href="./"><img src="bootstrap/logo-blanco-360x50-es.png" width="100%" style="max-width:290px;"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <i class="fas fa-ellipsis-v"></i>
       </button>
@@ -157,7 +159,7 @@
             <p><a class="btn btn-secondary" href="material.html" role="button">Más <i class="far fa-arrow-alt-circle-right"></i></a></p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
-      </div> <!-- .container -->
+      </div> <!-- .container .marketing -->
     </main> <!-- .container -->
     <hr>
     <footer class="footer">
@@ -288,11 +290,11 @@
             <span class="text-muted">2015-<script>document.write(new Date().getFullYear())</script> <a href="./" title="Asociación XEGA.">XEGA</a><br>
               MADE WIDTH <i class="fas fa-heart" style="color:#f00;"></i> IN ASTURIES | <a href="//github.com/xega-org/xega-org.github.io/blob/master/go/donde-estan-las-no-hetero/index.html" target="_blank" rel="external, nofollow"><i class="fas fa-code-branch"></i></a>
             </span>
-          </div> <!-- .col -->
+          </div> <!-- .col-sm -->
           <div class="col-sm">
             <span class="text-muted">Con la colaboración de</span><br>
             <img src="bootstrap/politica-igualdad-gijon.png" width="50%">
-          </div> <!-- .col -->
+          </div> <!-- .col-sm -->
         </div> <!-- .row -->
       </div> <!-- .container -->
     </footer>
