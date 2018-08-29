@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://xega.org/vih&#43;/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ast"
+                href="https://xega.org/vih&#43;/ast/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://xega.org/vih&#43;/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xega.org/vih&#43;/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xega.org/vih&#43;/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ast"
+                href="https://xega.org/vih&#43;/ast/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://xega.org/vih&#43;/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xega.org/vih&#43;/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xega.org/vih&#43;/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ast"
+                href="https://xega.org/vih&#43;/ast/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://xega.org/vih&#43;/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xega.org/vih&#43;/en/tags/"
+                />
+  </url>
+  
+</urlset>
