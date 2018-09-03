@@ -355,6 +355,12 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     #body .padding {
         padding: 5px 1rem;
     }
+    h1 {
+        font-size: 2.25em;
+    }
+    h2 {
+        font-size: 1.5em;
+    }
 }
 #body h1 + hr {
     margin-top: -1.7rem;
@@ -364,6 +370,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     #body #navigation {
         position: static;
         margin-right: 0 !important;
+        margin-bottom: 32px;
         width: 100%;
         display: table;
     }

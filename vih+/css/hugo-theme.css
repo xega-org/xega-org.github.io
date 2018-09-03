@@ -247,6 +247,12 @@ figcaption h4 {
   #breadcrumbs .links, #top-github-link-text {
       display: none;
   }
+  h2 {
+      font-size: 2em;
+  }
+  h3 {
+      font-size: 1.5em;
+  }
 }
 
 .is-sticky #top-bar {
