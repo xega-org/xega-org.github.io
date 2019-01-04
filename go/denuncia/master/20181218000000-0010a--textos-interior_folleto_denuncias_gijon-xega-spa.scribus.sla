@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.4">
+    <DOCUMENT ANZPAGES="3" PAGEWIDTH="396.850393700787" PAGEHEIGHT="280.629921259843" BORDERLEFT="11.3385826771654" BORDERRIGHT="11.3385826771654" BORDERTOP="11.3385826771654" BORDERBOTTOM="11.3385826771654" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="es" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="d" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Sans Book" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="es"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Fondo" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="0" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-9680625" PDLanguage="-9680625" markLength="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="2" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396.850393700787" PAGEHEIGHT="280.629921259843" BORDERLEFT="11.3385826771654" BORDERRIGHT="11.3385826771654" BORDERTOP="11.3385826771654" BORDERBOTTOM="11.3385826771654" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396.850393700787" PAGEHEIGHT="280.629921259843" BORDERLEFT="11.3385826771654" BORDERRIGHT="11.3385826771654" BORDERTOP="11.3385826771654" BORDERBOTTOM="11.3385826771654" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="340.629921259843" PAGEWIDTH="396.850393700787" PAGEHEIGHT="280.629921259843" BORDERLEFT="11.3385826771654" BORDERRIGHT="11.3385826771654" BORDERTOP="11.3385826771654" BORDERBOTTOM="11.3385826771654" NUM="1" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="661.259842519686" PAGEWIDTH="396.850393700787" PAGEHEIGHT="280.629921259843" BORDERLEFT="11.3385826771654" BORDERRIGHT="11.3385826771654" BORDERTOP="11.3385826771654" BORDERBOTTOM="11.3385826771654" NUM="2" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="111.338582677165" YPOS="31.3385826771654" OwnPage="0" ItemID="1619014583" PTYPE="4" WIDTH="117.164409448819" HEIGHT="257.952755905512" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" copath="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" gXpos="0" gYpos="0" gWidth="374.170393651969" gHeight="257.952755905512" LAYER="0" NEXTITEM="1619113255" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="La de­nun­cia pue­de ser rea­li­za­da por la pro­pia víc­ti­ma o por cual­quier otra per­so­na que ha­ya si­do tes­ti­go o ten­ga co­no­ci­mien­to de un in­ci­den­te por lgtb­fo­bia."/>
+                <para ALIGN="3" LINESP="8" INDENT="0" FIRST="8.625"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="12" INDENT="0" FIRST="0"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· En la co­mi­saría de la Po­licía Local"/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· En una co­mi­saría de la Po­licía Na­cio­nal: www.po­li­cia.es"/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· En un cuar­tel de la Guar­dia Ci­vil: www.guar­dia­ci­vil.es"/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· En la Fis­calía de As­tu­rias:    www.fis­cal.es"/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· En un Juz­ga­do de Guar­dia: www.po­der­ju­di­cial.es"/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· Web y apli­ca­ción mó­vil          ALERT­COPS: alert­cops.ses.mir.es"/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="12" CH=" "/>
+                <para ALIGN="0" LINESP="13"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="Si eres víc­ti­ma o tes­ti­go de un in­ci­den­te por lgtb­fo­bia con agre­sión o ame­na­zas que re­quie­ra una in­ter­ven­ción ur­gen­te de Po­licía o Guar­dia Ci­vil, lla­ma in­me­dia­ta­men­te al 112. En apli­ca­ción del Pro­to­co­lo de ac­tua­ción de la fuer­zas de se­gu­ri­dad an­te los de­li­tos de odio, los/as agen­tes que se per­so­nen de­berán re­co­pi­lar to­dos los in­di­ca­do­res de odio pa­ra po­der res­pal­dar la de­nun­cia. En to­do ca­so, tan­to si eres la víc­ti­ma co­mo tes­ti­go, te re­co­men­da­mos se­guir las si­guien­tes pau­tas:"/>
+                <para ALIGN="3" LINESP="8" FIRST="8.625"/>
+                <ITEXT FONT="Anton Regular" FONTSIZE="14" CH="Si eres víc­ti­ma"/>
+                <para ALIGN="0" LINESP="14"/>
+                <ITEXT FONTSIZE="4" CH=" "/>
+                <para ALIGN="0" LINESP="9"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· Si hay tes­ti­gos y no les co­no­ces, re­co­pi­la sus nú­me­ros de telé­fo­no pa­ra con­tac­tar pos­te­rior­men­te y pe­dir­les que te fa­ci­li­ten las fo­tos y ví­deos que ha­yan po­di­do gra­bar (o que con­ser­ven las con­ver­sa­cio­nes y cap­tu­ras de pan­ta­lla si el in­ci­den­te tie­ne lu­gar en in­ter­net). Pí­de­les, si quie­res, que no di­fun­dan ese ma­te­rial (o, si lo van a ha­cer igual­men­te, que al me­nos pi­xe­len las ca­ras y otros ele­men­tos iden­ti­fi­ca­ti­vos pa­ra no ex­po­ner­te a ti ni dar pro­ta­go­nis­mo a quien te agre­de). Lle­ga­do el ca­so, pí­de­les tam­bién que tes­ti­fi­quen a tu fa­vor."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="6" CH=" "/>
+                <para ALIGN="0" LINESP="8"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· Si ha ha­bi­do agre­sión fí­si­ca, aun­que pa­rez­ca que no tie­nes le­sio­nes, es im­por­tan­te que acu­das al Ser­vi­cio de Ur­gen­cias del hos­pi­tal o cen­tro de sa­lud más cer­ca­no (pí­de­le a Po­licía o Guar­dia Ci­vil que te lle­ven y/o a tes­ti­gos que te acom­pañen). Allí, el per­so­nal sa­ni­ta­rio de­be ela­bo­rar un In­for­me Mé­di­co de Agre­sio­nes que re­co­ja las po­si­bles le­sio­nes o se­cue­las fí­si­cas de­tec­ta­das. Aun­que te di­gan que el in­for­me se envía di­rec­ta­men­te al Juz­ga­do de Guar­dia, pí­de­les una co­pia pa­ra ti igual­men­te. Pue­des ir a Ur­gen­cias des­pués de po­ner la de­nun­cia, in­cor­po­ran­do el in­for­me mé­di­co con pos­te­rio­ri­dad."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="5.5" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="Si la agre­sión, las ame­na­zas y/o el aco­so ha si­do ver­bal y con­si­de­ras que han de­ja­do se­cue­las psi­coló­gi­cas en ti, tam­bién pue­des se acu­dir al Cen­tro de Sa­lud Men­tal que co­rres­pon­da a tu do­mi­ci­lio ha­bi­tual pa­ra que ela­bo­ren un In­for­me Mé­di­co de Asis­ten­cia."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="3.33066907387547e-16"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="5.5"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="Pos­te­rior­men­te pue­des acu­dir a otros es­pe­cia­lis­tas mé­di­cos co­mo den­tis­tas, psicó­lo­gos, ocu­lis­tas, trau­mató­lo­gos, etc. pa­ra po­der in­cor­po­rar a la de­nun­cia y así po­der so­li­ci­tar daños y per­jui­cios a las per­so­nas de­nun­cia­das. Y si ha ha­bi­do me­nos­ca­bo de tus bie­nes (co­che, mo­to, bi­ci, etc.), con­tac­ta con los ser­vi­cios jurí­di­cos de tu ase­gu­ra­do­ra pa­ra que te asis­tan."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="3.33066907387547e-16"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="6"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· Si el in­ci­den­te tie­ne lu­gar por me­dios te­lemá­ti­cos (en in­ter­net, apli­ca­cio­nes de men­sa­jería, etc.), con­ser­va las con­ver­sa­cio­nes (tex­to y/o au­dio) y haz cap­tu­ras de pan­ta­lla de to­das aque­llas imá­ge­nes y men­sa­jes de odio. No bo­rres na­da que pue­da"/>
+                <ITEXT FONT="DejaVu Sans Book" FONTSIZE="8" CH=" "/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="ser­vir de prue­ba, al­gu­nos medios so­cia­les ofre­cen la po­si­bi­li­dad de ocul­tar men­sa­jes e imá­ge­nes sin bo­rrar­las (por ejem­plo, op­ción «¿Quién pue­de ver es­to? - Só­lo yo», «Ocul­tar es­to de mi bio­grafía», etc.)."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="8"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· Cuan­do pro­ce­das a po­ner la de­nun­cia, pue­des lle­var­la es­cri­ta o ha­cer una de­cla­ra­ción ver­bal. Pue­de acom­pañar­te quien tú quie­ras."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="Pa­ra que el in­ci­den­te sea ca­li­fi­ca­do co­mo un de­li­to de odio es ne­ce­sa­rio que en la de­nun­cia apa­rez­can re­co­gi­dos, en­tre otros:"/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="3.33066907387547e-16"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="8"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="1. To­dos tus da­tos per­so­na­les co­mo víc­ti­ma, tal y co­mo apa­re­cen en tu DNI."/>
+                <para ALIGN="0" LINESP="8" INDENT="17.625" FIRST="-7.875"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="2. Ex­pli­ca cla­ra y de­ta­lla­da­men­te to­do lo que ha pa­sa­do, cuen­ta los he­chos y da to­dos los da­tos que pue­das: Día, ho­ra, lu­gar exac­to, in­sul­tos re­ci­bi­dos (re­prodú­ce­los li­te­ral­men­te). Es muy im­por­tan­te seña­lar to­do aque­llo que pue­da pro­bar que la agre­sión se ha pro­du­ci­do por tu orien­ta­ción se­xual y/o tu iden­ti­dad o ex­pre­sión de gé­ne­ro."/>
+                <para ALIGN="0" LINESP="8" INDENT="17.625" FIRST="-7.875"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="3. En­tre­ga to­dos los do­cu­men­tos y"/>
+                <ITEXT FONT="Nimbus Sans Regular" FONTSIZE="8" CH=" "/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="prue­bas que ten­gas pa­ra de­mos­trar los he­chos que de­nun­cias: El par­te mé­di­co del cen­tro de sa­lud, fo­to­grafías, gra­ba­cio­nes de au­dio y ví­deo, etc."/>
+                <para ALIGN="0" LINESP="8" INDENT="17.625" FIRST="-7.875"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="4. Por su­pues­to, des­cri­be a quie­nes te agre­die­ron con to­do de­ta­lle: Fí­si­ca­men­te, cual­quier ele­men­to iden­ti­fi­ca­ti­vo úni­co co­mo ta­tua­jes, matrí­culas de los vehículos, etc."/>
+                <para ALIGN="0" LINESP="8" INDENT="17.625" FIRST="-7.875"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="5. Apor­ta los da­tos de las per­so­nas que ha­yan si­do tes­ti­gos."/>
+                <para ALIGN="0" LINESP="8" INDENT="17.625" FIRST="-7.875"/>
+                <ITEXT FONTSIZE="8" CH=" "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="8" INDENT="8.25" FIRST="-1.4432899320127e-15"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="Pien­sa en qué di­rec­ción pos­tal fa­ci­li­tarás pa­ra evi­tar que tu do­mi­ci­lio pue­da ser co­no­ci­do por quie­nes te agre­die­ron. Pue­des dar la di­rec­ción de otra per­so­na de con­fian­za o con­tac­ta pre­via­men­te con XE­GA pa­ra usar al­gu­na de sus se­des y re­ci­bir allí las no­ti­fi­ca­cio­nes, no es ne­ce­sa­rio que sea tu do­mi­ci­lio. Való­ra­lo tam­bién si no has sa­li­do del ar­ma­rio en ca­sa."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.25" FIRST="-1.4432899320127e-15"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="8" INDENT="8.25" FIRST="-1.4432899320127e-15"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="Si no lle­vas la de­nun­cia es­cri­ta, la per­so­na que te atien­de hará una trans­crip­ción de tu de­cla­ra­ción ver­bal y te ofre­cerá la po­si­bi­li­dad de leer­la. Lee­la y, an­tes de fir­mar­la, asegú­ra­te de que en ella apa­re­ce to­do tal y co­mo lo has ex­pre­sa­do."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.25" FIRST="-1.4432899320127e-15"/>
+                <ITEXT CH=" "/>
+                <para ALIGN="0" LINESP="4" INDENT="8.25" FIRST="-1.4432899320127e-15"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="Además, te in­for­marán de una se­rie de re­cur­sos y de­re­chos, en­tre otros:"/>
+                <para ALIGN="0" LINESP="8" INDENT="8.25" FIRST="-1.4432899320127e-15"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="4"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· Si quie­res ser par­te en el pro­ce­so que se ini­cia, pa­ra de­fen­der tus in­te­re­ses y ejer­cer las ac­cio­nes pe­na­les y/o ci­vi­les que pro­ce­dan."/>
+                <para ALIGN="0" LINESP="8" INDENT="13.125" FIRST="-4.5">
+                    <Tabs Type="0" Pos="13.7804331028347" Fill=""/>
+                </para>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· La po­si­bi­li­dad de ob­te­ner jus­ti­cia gra­tui­ta, de­pen­dien­do de tus in­gre­sos."/>
+                <para ALIGN="0" LINESP="8" INDENT="13.125" FIRST="-4.5">
+                    <Tabs Type="0" Pos="13.7804331" Fill=""/>
+                </para>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· De­re­cho a so­li­ci­tar me­di­das de pro­tec­ción."/>
+                <para ALIGN="0" LINESP="8" INDENT="13.125" FIRST="-4.5">
+                    <Tabs Type="0" Pos="13.7804331" Fill=""/>
+                </para>
+                <ITEXT CH=" "/>
+                <para ALIGN="0" LINESP="12"/>
+                <ITEXT FONT="Anton Regular" FONTSIZE="14" CH="Si eres tes­ti­go"/>
+                <para ALIGN="0" LINESP="14"/>
+                <ITEXT CH=" "/>
+                <para ALIGN="0" LINESP="8"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· Po­si­ció­na­te a fa­vor de la(s) víc­ti­ma(s). Pon­te fí­si­ca­men­te a su la­do, si es po­si­ble. Cuan­do eres víc­ti­ma de una agre­sión por lgtb­fo­bia, si hay al­go que ge­ne­re más frus­tra­ción e im­po­ten­cia que la pro­pia agre­sión es com­pro­bar que te ro­dean per­so­nas &quot;equi­dis­tan­tes&quot; que se li­mi­tan a ob­ser­var o, peor, a gra­bar el in­ci­den­te con sus mó­vi­les con el úni­co ob­je­ti­vo per­so­nal de con­se­guir un puña­do de 'li­kes' en sus medios so­cia­les."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· Si el in­ci­den­te tie­ne lu­gar por me­dios te­lemá­ti­cos (en in­ter­net, apli­ca­cio­nes de men­sa­jería, etc.), con­ser­va las con­ver­sa­cio­nes (tex­to y/o au­dio) y haz cap­tu­ras de pan­ta­lla de to­das"/>
+                <ITEXT FONT="DejaVu Sans Book" FONTSIZE="8" CH=" "/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="aque­llas imá­ge­nes y men­sa­jes de odio."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="8.5"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· Una per­so­na ha­cien­do fo­tos o gra­ban­do ví­deo en un in­ci­den­te de odio está bien, dos per­so­nas está me­jor (di­fe­ren­te ca­li­dad de ima­gen y so­ni­do, dos án­gu­los di­fe­ren­tes), pe­ro tres o más per­so­nas gra­ban­do una agre­sión, ame­na­zas o aco­so no tie­ne sen­ti­do. Si sa­cas fo­tos o gra­bas ví­deo, haz­le sa­ber a la(s) víc­ti­ma(s) que no di­fun­dirás esas imá­ge­nes (no al me­nos sin pi­xe­lar ca­ras y otros ele­men­tos iden­ti­fi­ca­ti­vos –co­mo matrí­culas de vehículos–). No ex­pon­gas in­ne­ce­sa­ria­men­te a la(s) víc­ti­ma(s) ni des pro­ta­go­nis­mo a quie­nes agre­den, ame­na­zan y aco­san. Si ya hay una o dos per­so­nas re­gis­tran­do el in­ci­den­te, el res­to de tes­ti­gos de­beríais po­si­cio­na­ros fí­si­ca­men­te al la­do de la(s) víc­ti­ma(s)."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="8.5"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· Ofre­ce a la(s) víc­ti­ma(s) tu nú­me­ro de telé­fo­no pa­ra que con­tac­te(n) pos­te­rior­men­te con­ti­go, ofré­ce­le(s) igual­men­te to­dos aque­llos re­cur­sos au­dio­vi­sua­les que ha­yas re­co­pi­la­do. Ofré­ce­te tam­bién, lle­ga­do el ca­so, a per­so­nar­te y tes­ti­fi­car a su fa­vor."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· Si ha ha­bi­do agre­sión fí­si­ca, prés­ta­te a acom­pañar a la(s) víc­ti­ma(s) al Ser­vi­cio de Ur­gen­cias del hos­pi­tal o cen­tro de sa­lud más cer­ca­no y/o a la Ofi­ci­na de De­nun­cias si Po­licía o Guar­dia Ci­vil no rea­li­za es­ta la­bor o no se ha per­so­na­do en el lu­gar de la agre­sión."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="11"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="· Si eres tú, como testigo, quien va a po­ner la de­nun­cia, pue­des lle­var­la es­cri­ta o ha­cer una de­cla­ra­ción ver­bal. Pue­de acom­pañar­te quien tú quie­ras."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="-4.125"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="11"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="Pa­ra que el in­ci­den­te sea ca­li­fi­ca­do co­mo un de­li­to de odio es ne­ce­sa­rio que en la de­nun­cia apa­rez­can re­co­gi­dos, en­tre otros:"/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="3.33066907387547e-16"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="10.5"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="1. To­dos tus da­tos per­so­na­les co­mo tes­ti­go, tal y co­mo apa­re­cen en tu DNI."/>
+                <para ALIGN="0" LINESP="8" INDENT="17.625" FIRST="-7.875"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="2. Ex­pli­ca cla­ra y de­ta­lla­da­men­te to­do lo que ha pa­sa­do, cuen­ta los he­chos y da to­dos los da­tos que pue­das: Día, ho­ra, lu­gar exac­to, in­sul­tos pro­fe­ri­dos (re­prodú­ce­los li­te­ral­men­te). Es muy im­por­tan­te seña­lar to­do aque­llo que pue­da pro­bar que la agre­sión se ha pro­du­ci­do por la orien­ta­ción se­xual"/>
+                <ITEXT FONT="DejaVu Sans Book" FONTSIZE="8" CH=" "/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH=" y/o la iden­ti­dad o ex­pre­sión de gé­ne­ro de la(s) víc­ti­ma(s)."/>
+                <para ALIGN="0" LINESP="8" INDENT="17.625" FIRST="-7.875"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="3. En­tre­ga to­dos los do­cu­men­tos y prue­bas que ten­gas pa­ra de­mos­trar los he­chos que de­nun­cias: Fo­to­grafías, gra­ba­cio­nes de au­dio y ví­deo, etc."/>
+                <para ALIGN="0" LINESP="8" INDENT="17.625" FIRST="-7.875"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="4. Por su­pues­to, des­cri­be a quie­nes agre­den con to­do de­ta­lle: Fí­si­ca­men­te, cual­quier ele­men­to iden­ti­fi­ca­ti­vo úni­co co­mo ta­tua­jes, matrí­culas de los vehículos, etc."/>
+                <para ALIGN="0" LINESP="8" INDENT="17.625" FIRST="-7.875"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="8.5"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="Va­lo­ra qué di­rec­ción pos­tal fa­ci­li­tarás pa­ra evi­tar que tu do­mi­ci­lio pue­da ser co­no­ci­do por quie­nes pro­vo­ca­ron el in­ci­den­te que de­nun­cias. Pue­des dar la di­rec­ción de otra per­so­na de con­fian­za o con­tac­ta pre­via­men­te con XE­GA pa­ra usar al­gu­na de sus se­des y re­ci­bir allí las no­ti­fi­ca­cio­nes, no es ne­ce­sa­rio que sea tu do­mi­ci­lio."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="3.330669074e-16"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" CH=" "/>
+                <para ALIGN="0" LINESP="8"/>
+                <ITEXT FONT="Nimbus Sans Narrow Regular" FONTSIZE="8" CH="Si no lle­vas la de­nun­cia es­cri­ta, la per­so­na que te atien­de hará una trans­crip­ción de tu de­cla­ra­ción ver­bal y te ofre­cerá la po­si­bi­li­dad de leer­la. Lee­la y, an­tes de fir­mar­la, asegú­ra­te de que en ella apa­re­ce to­do tal y co­mo lo has ex­pre­sa­do."/>
+                <para ALIGN="0" LINESP="8" INDENT="8.625" FIRST="3.330669074e-16"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="239.84157480315" YPOS="31.3385826771654" OwnPage="0" ItemID="1619113255" PTYPE="4" WIDTH="117.1644094" HEIGHT="257.9527559" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" copath="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" gXpos="128.502992125984" gYpos="0" gWidth="374.170393651969" gHeight="257.952755905512" LAYER="0" NEXTITEM="1619107703" BACKITEM="1619014583"/>
+        <PAGEOBJECT XPOS="368.344566929134" YPOS="31.3385826771654" OwnPage="0" ItemID="1619107703" PTYPE="4" WIDTH="117.1644094" HEIGHT="257.9527559" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" copath="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" gXpos="257.005984251968" gYpos="0" gWidth="374.170393651969" gHeight="257.952755905512" LAYER="0" NEXTITEM="1624883495" BACKITEM="1619113255"/>
+        <PAGEOBJECT XPOS="111.338582677165" YPOS="351.968503937008" OwnPage="1" ItemID="1624883495" PTYPE="4" WIDTH="117.1644094" HEIGHT="257.9527559" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" copath="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1624845159" BACKITEM="1619107703"/>
+        <PAGEOBJECT XPOS="239.841574797165" YPOS="351.968503937008" OwnPage="1" ItemID="1624845159" PTYPE="4" WIDTH="117.1644094" HEIGHT="257.9527559" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" copath="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1619007527" BACKITEM="1624883495"/>
+        <PAGEOBJECT XPOS="368.344566897165" YPOS="351.968503937008" OwnPage="1" ItemID="1619007527" PTYPE="4" WIDTH="117.1644094" HEIGHT="257.9527559" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" copath="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1625016119" BACKITEM="1624845159"/>
+        <PAGEOBJECT XPOS="111.33858268" YPOS="672.598425199685" OwnPage="2" ItemID="1625016119" PTYPE="4" WIDTH="117.1644094" HEIGHT="257.9527559" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" copath="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1619029271" BACKITEM="1619007527"/>
+        <PAGEOBJECT XPOS="239.8415748" YPOS="672.598425199685" OwnPage="2" ItemID="1619029271" PTYPE="4" WIDTH="117.1644094" HEIGHT="257.9527559" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" copath="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1619032791" BACKITEM="1625016119"/>
+        <PAGEOBJECT XPOS="368.3445669" YPOS="672.598425199685" OwnPage="2" ItemID="1619032791" PTYPE="4" WIDTH="117.1644094" HEIGHT="257.9527559" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" copath="M0 0 L117.164 0 L117.164 257.953 L0 257.953 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1619029271"/>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
