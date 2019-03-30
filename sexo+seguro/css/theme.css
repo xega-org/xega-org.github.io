@@ -108,7 +108,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     display: inline-block;
 }
 #header #logo-svg {
-/*    width: 8rem; */
+    width: 100%;
 /*    height: 2rem; */
 }
 #header #logo-svg path {
